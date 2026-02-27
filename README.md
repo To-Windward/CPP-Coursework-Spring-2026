@@ -5,7 +5,7 @@
 
 ## Overview
 
-`ItemTracker` is a console-based C++ application designed to read, process, and report on item frequency data from a text file. The project demonstrates foundational C++ concepts including object-oriented design, file I/O, standard library containers, string manipulation, and formatted console output.
+`ItemTracker` is a console-based C++ application designed to read, process, and report on item frequency data from a text file. 
 
 ---
 
